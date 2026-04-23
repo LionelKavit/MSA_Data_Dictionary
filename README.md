@@ -1,10 +1,10 @@
-# MSA_Data_Dictionary
-An automated system to document MS Dynamics 365 ERP data and store it for future analytical use.
+# ERP Data Management Agent for MSA
+An AI-driven system to document MS Dynamics 365 ERP data and store it for future analytical use.
 
 WHAT I BUILT (as Product Owner & Data Engineer)
-1. Designed end-to-end data pipelines in Microsoft Fabric to extract and refresh SQL metadata automatically.
+1. Designed end-to-end data pipelines in Microsoft Fabric to extract and refresh SQL metadata, automatically.
 
-2. Implemented stored procedures in Fabric to keep documentation continuously up to date as schemas evolve.
+2. Automated "stored procedures" management using Fabric Copilot agents to keep documentation continuously up to date as schemas evolve.
 
 3. Built a Copilot Agent in Copilot Studio that lets “data users enquire”, and “knowledge owners validate and update” column/table definitions through conversations in natural language. This agent can be integrated into any of the partner’s Microsoft tools. Users can access it with a single click, whether they are in Teams, Outlook, or any other platform.
 
